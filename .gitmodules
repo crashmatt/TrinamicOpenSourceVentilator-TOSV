@@ -1,0 +1,9 @@
+[submodule "TOSV-HardwareReferenceDesign"]
+	path = TOSV-HardwareReferenceDesign
+	url = https://github.com/trinamic/TOSV-HardwareReferenceDesign
+[submodule "TOSV-Firmware"]
+	path = TOSV-Firmware
+	url = https://github.com/trinamic/TOSV-Firmware
+[submodule "TOSV-UserInterface"]
+	path = TOSV-UserInterface
+	url = https://github.com/trinamic/TOSV-UserInterface
