@@ -6,7 +6,7 @@ Trinamic Open Source Ventilator - TOSV
 
 * [TOSV-HardwareReferenceDesign](https://github.com/trinamic/TOSV-HardwareReferenceDesign)  
 * [TOSV-Firmware](https://github.com/trinamic/TOSV-Firmware)  
-* [TOSV-UserInterface](repo/TOSV-UserInterface)
+* [TOSV-UserInterface](https://github.com/trinamic/TOSV-UserInterface)
 
 ## Setup
 
