@@ -9,6 +9,7 @@ Jonas put some [CAD files on grabcad](https://grabcad.com/library/covid19-last-r
 ## Submodules
 
 * [TOSV-HardwareReferenceDesign](https://github.com/trinamic/TOSV-HardwareReferenceDesign)  
+* [TOSV-AddonHardwareReferenceDesign](https://github.com/trinamic/TOSV-AddonHardwareReferenceDesign)
 * [TOSV-Firmware](https://github.com/trinamic/TOSV-Firmware)  
 * [TOSV-UserInterface](https://github.com/trinamic/TOSV-UserInterface)
 
