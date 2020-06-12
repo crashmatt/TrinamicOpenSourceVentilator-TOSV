@@ -7,3 +7,6 @@
 [submodule "TOSV-UserInterface"]
 	path = TOSV-UserInterface
 	url = https://github.com/trinamic/TOSV-UserInterface
+[submodule "TOSV-AddonHardwareReferenceDesign"]
+	path = TOSV-AddonHardwareReferenceDesign
+	url = git@github.com:trinamic/TOSV-AddonHardwareReferenceDesign
